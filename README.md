@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Putri Qonita Arif
+Nice To Meet You ^^
 <!--
 **qonythazu/qonythazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
